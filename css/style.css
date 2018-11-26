@@ -28,8 +28,6 @@ nav ul {
 }
 nav li {
     float: right;
-
- 
 }
 
 li a {
@@ -40,10 +38,6 @@ li a {
     padding: 7.5px 20px;
     text-decoration: none;
     text-transform: uppercase;
-    
-
-    
-   
 }
 li a:hover {
     background-color: lightgray;
@@ -115,20 +109,19 @@ section {
     bottom: 0;
    
   }
-.name {
+  .name {
     background-color: #4aaaa5;
     background-size: 20px;
     width: 150px;
-    height: 50;
+    height: 45;
     text-align: center;
-    margin-left: 245px;
+    margin-left: 166px;
     font-size: 20px;
     color: #ffffff;
     padding: 20px 5px;
     margin-top: 0;
     float: left;
-
-    
+    margin-bottom: 2px; 
 }
  .copy {
      align: center;
