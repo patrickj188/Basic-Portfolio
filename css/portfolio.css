@@ -87,7 +87,7 @@ section {
   #hangman {
       height: 150px;
       width: 250px;
-      background-image; url('../images/_MG_5181.JPG'); 
+      background-image: url('../images/_MG_5181.JPG');
       background-size: 250px 150px;
       padding: 20px 0 20px 0;
       text-align: center;
@@ -133,7 +133,7 @@ section {
     padding: 20px 0 20px 0;
     text-align: center;
     margin: 10px 2px;
-    background-image: url('images/_MG_5181.JPG');
+    background-image: url(_MG_5181.JPG);
     background-size: 250px 150px;
 
   }
