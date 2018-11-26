@@ -38,6 +38,7 @@ li a {
     padding: 7.5px 20px;
     text-decoration: none;
     text-transform: uppercase;
+   
 }
 li a:hover {
     background-color: lightgray;
@@ -83,6 +84,7 @@ section {
     padding: 10px;
     justify-items: center;
   }
+
   
   #hangman {
       height: 150px;
@@ -214,13 +216,21 @@ section {
     width: 150px;
     height: 45;
     text-align: center;
+<<<<<<< HEAD
     margin-left: 166px;
+=======
+    margin-left: 174px;
+>>>>>>> dabcd2c626ce8c44825a199e31ee6687406d62ed
     font-size: 20px;
     color: #ffffff;
-    padding: 20px 5px;
+    padding: 19px 5px;
     margin-top: 0;
     float: left;
+<<<<<<< HEAD
     margin-bottom: 2px; 
+=======
+    margin-bottom: 5px; 
+>>>>>>> dabcd2c626ce8c44825a199e31ee6687406d62ed
 }
  .copy {
      align: center;
