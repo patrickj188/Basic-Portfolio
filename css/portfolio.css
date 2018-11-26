@@ -28,8 +28,6 @@ nav ul {
 }
 nav li {
     float: right;
-
- 
 }
 
 li a {
@@ -40,9 +38,6 @@ li a {
     padding: 7.5px 20px;
     text-decoration: none;
     text-transform: uppercase;
-    
-
-    
    
 }
 li a:hover {
@@ -81,25 +76,23 @@ section {
     border-style: solid;
     margin-right: auto; 
     margin-left:  auto; 
-    margin-top: 00px;
+    margin-top: 100px;
     padding-right: 10px; 
     padding-left:  10px;
-    padding-bottom: 400px;
+    padding-bottom: 40px;
     background: #ffffff;
+
 }
 .container {
-    /*display: grid;
+    display: grid;
     grid-area: auto;
     grid-template-columns: 350px 350px 350px;
     padding: 10px;
-    grid-column: 150px;*/
+    grid-column: 150px;
     display: grid;
     grid-template-columns: 300px 300px 300px;
     padding: 10px;
     justify-items: center;
-
-    
-
   }
   .footer {
     flex-shrink: 0;
@@ -124,6 +117,10 @@ section {
       margin: 10px 2px;
 
   }
+  #hangman:hover {
+    transform: scale(1.1, 1.1);
+
+  }
   #hangman p {
       margin-top: 80px;
       text-align: center;
@@ -140,6 +137,10 @@ section {
       margin: 10px 2px;
       background-image: url(_MG_5215.JPG);
       background-size: 250px 150px;
+
+  }
+#RPGgame:hover {
+    transform: scale(1.1, 1.1);
 
   }
   #RPGgame p {
@@ -159,6 +160,10 @@ section {
     background-size: 250px 150px;
 
   }
+  #TriviaGame:hover {
+    transform: scale(1.1, 1.1);
+  
+  }
   #TriviaGame p {
     margin-top: 80px;
     text-align: center;
@@ -176,6 +181,10 @@ section {
     background-size: 250px 150px;
 
 }
+#RutgersInfoWidget:hover {
+    transform: scale(1.1, 1.1);
+  
+  }
 #RutgersInfoWidget p {
     margin-top: 80px;
     text-align: center;
@@ -193,6 +202,10 @@ section {
     background-size: 250px 150px;
 
 }
+#RockPaperScissors:hover {
+    transform: scale(1.1, 1.1);
+  
+  }
 #RockPaperScissors p {
     margin-top: 80px;
     text-align: center;
@@ -219,20 +232,19 @@ section {
     bottom: 0;
    
   }
-.name {
+  .name {
     background-color: #4aaaa5;
     background-size: 20px;
     width: 150px;
-    height: 50;
+    height: 45;
     text-align: center;
-    margin-left: 245px;
+    margin-left: 174px;
     font-size: 20px;
     color: #ffffff;
-    padding: 20px 5px;
+    padding: 19px 5px;
     margin-top: 0;
     float: left;
-
-    
+    margin-bottom: 5px; 
 }
  .copy {
      align: center;
