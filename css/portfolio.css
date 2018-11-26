@@ -28,8 +28,6 @@ nav ul {
 }
 nav li {
     float: right;
-
- 
 }
 
 li a {
@@ -95,9 +93,6 @@ section {
     grid-template-columns: 300px 300px 300px;
     padding: 10px;
     justify-items: center;
-
-    
-
   }
   .footer {
     flex-shrink: 0;
