@@ -81,7 +81,6 @@ section {
   .photoME {
       float: left;
       padding: 0 10px;
-
   }
   .wrapper {
     width: 600px;
@@ -106,7 +105,6 @@ section {
     font-size: 9px;
     left: 0;
     bottom: 0;
-   
   }
   .name {
     background-color: #4aaaa5;
